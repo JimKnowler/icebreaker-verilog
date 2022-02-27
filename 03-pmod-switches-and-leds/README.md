@@ -5,6 +5,8 @@ Working with PMOD expansion ports.
 - [PMOD-LED](https://www.aliexpress.com/item/1005002988166709.html) expansion board
 - [PMOD-SWITCH](https://www.aliexpress.com/item/1005002988228196.html) expansion board
 
+Activating a switch will activate the corresponding LED,
+
 Build and program ICEBreaker FPGA with makefile:
 
 ```bash
