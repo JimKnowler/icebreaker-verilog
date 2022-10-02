@@ -10,7 +10,7 @@ Just type `make` at the command line to build `top.bin` from the verilog source 
 % make
 ```
 
-Use `make program` at the command line to program the Icebreaker FPGA device with `top.bin`
+Use `make program-fpga` at the command line to program the Icebreaker FPGA device with `top.bin`
 
 ```bash
 % make program-fpga
